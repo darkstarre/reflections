@@ -1,0 +1,6 @@
+==============================If and While====================================
+If says that if a condition is true, do this action once.
+While says do this actions as many times as it takes before the condition is false.
+
+If == 1
+While == x

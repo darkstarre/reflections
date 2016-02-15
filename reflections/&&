@@ -1,0 +1,5 @@
+==================================&&=========================================
+This is the 'and' operator.
+It checks that both sides evaluate true in an expression.
+If one is false, the entire expression is false.
+

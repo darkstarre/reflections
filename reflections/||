@@ -1,0 +1,4 @@
+============================================||=========================================
+This is the 'or' operator
+To be true, only one expression needs to be true.
+It evaluates until it finds one true expression
